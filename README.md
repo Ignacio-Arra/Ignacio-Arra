@@ -10,4 +10,7 @@ Hello! my name is Ignacio. I'm passionate about ethical hacking and if anything 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![](https://visitcount.itsvg.in/api?id=Ignacio-Arra&icon=0&color=0)](https://visitcount.itsvg.in)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Arra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
